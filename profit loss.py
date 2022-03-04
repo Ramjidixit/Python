@@ -1,3 +1,4 @@
+#to calculate profit and loss
 cp=eval(input("Enter the cost price:"))
 sp=eval(input("enter the selling price:"))
 if(sp>cp):
