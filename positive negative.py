@@ -1,3 +1,4 @@
+#to check whether number is positive negative or zero
 x=eval(input("enter the number x:"))
 if(x>0):
         print("number is positive")
