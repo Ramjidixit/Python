@@ -1,3 +1,4 @@
+#to comapre three numbers
 x=eval(input("enter the number x"))
 y=eval(input("enter the number y"))
 z=eval(input("enter the number z"))
