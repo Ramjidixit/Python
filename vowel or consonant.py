@@ -1,3 +1,4 @@
+print("to check character is a vowel or consonant")
 ch = input("Enter a character: ")
 
 if(ch=='A' or ch=='a' or ch=='E' or ch =='e' or ch=='I'
