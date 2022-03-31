@@ -1,0 +1,13 @@
+# the string + and * operator
+
+#+ is used to concatenate two strings means to join them
+s="gla  "
+t="university"
+print(s+t)
+
+print(4*s)#to concatenate any thing multiple time we use * operator
+
+a="techno" in s #to check whether string is present or not
+print(a) #for false condition
+b="gla" in s 
+print(b)#for true condition
