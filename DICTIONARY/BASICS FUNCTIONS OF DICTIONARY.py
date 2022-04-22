@@ -13,3 +13,4 @@ print(max(b))    # max return maximum key value
 print(min(b))    #min returns minimum key value
 print("raju" in b)  #return true if raju is present in b 
 print("raju" not in b)  #return true if raju is not present in b 
+print(type(b))  #check the type of dictionary
