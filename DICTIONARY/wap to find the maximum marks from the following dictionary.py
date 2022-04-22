@@ -8,3 +8,10 @@ for i in d:
         maxx=d[i]
         name=i
 print("The highest marks is of :",name,"which are=",maxx)
+
+#ANOTHER METHOD FOR THIS QUESTION
+b=list(d.values())
+c=list(d.keys())
+print("The highest marks are:",max(b))
+print("The highest marks is of:",c[b.index(max(b))])
+
