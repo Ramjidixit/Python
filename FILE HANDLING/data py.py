@@ -1,0 +1,11 @@
+#data file handling program to read
+myfile=open("data.txt","r")
+str1=myfile.read(10)
+str2=myfile.read(5)
+str3=myfile.read()
+print("output of first read:")
+print(str1)
+print("output of second read:")
+print(str2)
+print("output of third read:")
+print(str3)
